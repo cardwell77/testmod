@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+version: 2.1-SNAPSHOT
+javaCompliance: 1.6
+group: net.minecraftforge.gradle
+Implementation-Version: 2.1-SNAPSHOT-unknown
+

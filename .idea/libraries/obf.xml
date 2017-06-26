@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="obf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/test/resources/net/minecraftforge/gradle/obf/DepClean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/test/resources/net/minecraftforge/gradle/obf/ActualObf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/test/resources/net/minecraftforge/gradle/obf/ActualClean.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
